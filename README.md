@@ -3,11 +3,11 @@
 <h1>Personal Portfolio Website - v0.1.0</h1>
 
 <h2>
-  <a href="https://thepranaygupta.github.io/">thepranaygupta.github.io</a>
+  <a href="https://anmolkgupta.github.io/">anmolkgupta.github.io</a>
 </h2>
 
 <div align="center">
-  <a href="https://thepranaygupta.github.io/">
+  <a href="https://anmolkgupta.github.io/">
     <img alt="Mockup" src="https://user-images.githubusercontent.com/64855541/148080556-ec9d5062-1092-4bd4-ba12-82a153e32985.png" />
   </a>
 </div>
