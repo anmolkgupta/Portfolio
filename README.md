@@ -14,7 +14,7 @@
 <br/>
 
 <a href="https://github.com/anmolkgupta/anmolkgupta.github.io.main"><img src="https://sloc.xyz/github/anmolkgupta/anmolkgupta.github.io" alt="Total lines"></a>
-<a href="https://github.com/anmolkgupta/anmolkgupta.github.io.main"><img src="" alt="Number of Visitors"></a>
+<a href="https://github.com/anmolkgupta/anmolkgupta.github.io.main"><img src="![Visitor Count](https://profile-counter.glitch.me/{anmolkgupta}/count.svg)" alt="Number of Visitors"></a>
 <a href="https://github.com/anmolkgupta/anmolkgupta.github.io.main/stargazers"><img src="https://img.shields.io/github/stars/anmolkupta/anmolkgupta.github.io" alt="github stars"></a>
 <a href="https://github.com/anmolkgupta/anmolkgupta.github.io.main/network/members"><img src="https://img.shields.io/github/forks/anmolkgupta/anmolkgupta.github.io" alt="github forks"></a>
 <a href="https://github.com/anmolkgupta/anmolkgupta.github.io.main"><img src="https://img.shields.io/badge/website-up-yellow" alt="website up"></a>
