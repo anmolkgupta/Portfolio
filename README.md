@@ -13,11 +13,11 @@
 
 <br/>
 
-<a href="https://github.com/anmolkgupta/anmolkgupta.github.io"><img src="https://sloc.xyz/github/anmolkgupta/anmolkgupta.github.io" alt="Total lines"></a>
-<a href="https://github.com/anmolkgupta/anmolkgupta.github.io"><img src="https://visitor-badge.laobi.icu/badge?page_id=thepranaygupta/anmolkgupta.github.io" alt="Number of Visitors"></a>
-<a href="https://github.com/anmolkgupta/anmolkgupta.github.io/stargazers"><img src="https://img.shields.io/github/stars/anmolkupta/anmolkgupta.github.io" alt="github stars"></a>
-<a href="https://github.com/anmolkgupta/anmolkgupta.github.io/network/members"><img src="https://img.shields.io/github/forks/anmolkgupta/anmolkgupta.github.io" alt="github forks"></a>
-<a href="https://anmolkgupta.github.io/"><img src="https://img.shields.io/badge/website-up-yellow" alt="website up"></a>
+<a href="https://github.com/anmolkgupta/anmolkgupta.github.io.main"><img src="https://sloc.xyz/github/anmolkgupta/anmolkgupta.github.io" alt="Total lines"></a>
+<a href="https://github.com/anmolkgupta/anmolkgupta.github.io.main"><img src="" alt="Number of Visitors"></a>
+<a href="https://github.com/anmolkgupta/anmolkgupta.github.io.main/stargazers"><img src="https://img.shields.io/github/stars/anmolkupta/anmolkgupta.github.io" alt="github stars"></a>
+<a href="https://github.com/anmolkgupta/anmolkgupta.github.io.main/network/members"><img src="https://img.shields.io/github/forks/anmolkgupta/anmolkgupta.github.io" alt="github forks"></a>
+<a href="https://github.com/anmolkgupta/anmolkgupta.github.io.main"><img src="https://img.shields.io/badge/website-up-yellow" alt="website up"></a>
 <a href="https://www.linkedin.com/in/anmol-kumar-gupta-620a9b202/"><img src="https://www.linkedin.com/?trk=guest_homepage-basic_nav-header-logo" alt="linkedin"></a>
 
 </div>
@@ -41,7 +41,7 @@
 ✔️ Contact Me\
 ✔️ Footer
 
-To view a live example, **[click here](https://thepranaygupta.github.io/)**
+To view a live example, **[click here](https://anmolkgupta.vercel.app/)**
 
 ## Tools Used 🛠️
 
